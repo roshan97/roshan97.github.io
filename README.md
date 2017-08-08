@@ -41,7 +41,7 @@ The term "3D printing" originally referred to a process that deposits a binder m
 Cura prepares your model for 3D printing. For novices, it makes it easy to get great results. For experts, there are over 200 settings to adjust to your needs. As it’s open source, our community helps enrich it even more.
 
 ### CONTACT ME
-VISHNU M
+**MOHAMMED ROSHAN K**
 
 E Mail: kroshan93@gmail.com
 
